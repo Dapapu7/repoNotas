@@ -49,3 +49,6 @@
    83  git push
    84  git push --set-upstream origin claveDo
    85  history``
+
+
+``Profe he tenido que hacer lo de la rama sostenido un poco más tarde de cuando la has pedido pero esta todo en el history``
